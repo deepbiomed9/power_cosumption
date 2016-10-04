@@ -1,0 +1,1 @@
+plot(subpowerData$powerTime, subpowerData$Global_active_power, type="l", col="black", xlab="", ylab="Global Active Power (kilowatts)")
